@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/Anklet9/Anklet9/assets/75060938/84efadfe-9cfa-40c2-857f-55bb5d649f50)### Hi there 👋
 
 <!--
 **Anklet9/Anklet9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +22,7 @@ Java backend developer with expertise in building full-stack projects, utilizing
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-sengar-5b2341194/) 
 
 # 💻 Tech Stack:
-<img src="https://cdn.discordapp.com/attachments/1128079625818480751/1152187099206909992/image.png" alt="HTML Icon" width="60"><img src="https://cdn.discordapp.com/attachments/1128079625818480751/1152189809687789639/image.png" alt="CSS Icon" width="60"> <img src="https://cdn.discordapp.com/attachments/1128079625818480751/1152188664978362379/image.png" alt="Java Icon" width="60"> 
+<img src="https://cdn.discordapp.com/attachments/1128079625818480751/1152187099206909992/image.png" alt="HTML Icon" width="60"><img src="https://cdn.discordapp.com/attachments/1128079625818480751/1152189809687789639/image.png" alt="CSS Icon" width="60"><img src="https://cdn.discordapp.com/attachments/1128079625818480751/1152190887644909638/image.png" alt="Javascript Icon" width="60"> <img src="https://cdn.discordapp.com/attachments/1128079625818480751/1152188664978362379/image.png" alt="Java Icon" width="60"> <img src="https://cdn.discordapp.com/attachments/1128079625818480751/1152192268279750686/image.png" alt="SQL Icon" width="60"> 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Anklet9&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Anklet9&theme=dark&hide_border=false)<br/>
