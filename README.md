@@ -1,4 +1,4 @@
-![image](https://github.com/Anklet9/Anklet9/assets/75060938/84efadfe-9cfa-40c2-857f-55bb5d649f50)### Hi there 👋
+### Hi there 👋
 
 <!--
 **Anklet9/Anklet9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
