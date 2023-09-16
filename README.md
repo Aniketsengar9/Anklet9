@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 # 💫 About Me:
 Java backend developer with expertise in building full-stack projects, utilizing Java, Spring Boot, Hibernate, and restful APIs. Strong problem solving skills, attention to detail, and a proactive team player. Effective communicator and deadline-oriented professional committed to delivering high-quality software solutions.
 
+- 👨‍💻 All of my projects are available at [Portfolio](https://anklet9.github.io)
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/uc?id=13rcXQ-7SnT-Vi8PkHdWvAZJ4_3eyi8RK&export=download) 
+
+- 📫 How to reach me **anklet.devil09@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-sengar-5b2341194/) 
