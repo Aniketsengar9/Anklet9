@@ -23,7 +23,6 @@ Java backend developer with expertise in building full-stack projects, utilizing
 
 - 📫 How to reach me **anklet.devil09@gmail.com**
 
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-sengar-5b2341194/) 
 
 # 💻 Tech Stack:
